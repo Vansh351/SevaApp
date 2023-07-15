@@ -1,0 +1,23 @@
+.progressBar {
+  bottom: 4%;
+  position: absolute;
+}
+
+.progress {
+  height: 10px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+.barColor {
+  background-color: rgba(21, 215, 180, 1);
+}
+
+.value {
+  font-weight: 700;
+  font-size: 19px;
+}
+
+.label {
+  margin-bottom: 5px;
+}
