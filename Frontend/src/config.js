@@ -1,5 +1,6 @@
 //const backendURL = "https://crowd-funding-backend.vercel.app/";
- const backendURL = process.env.REACT_APP_BASE_URL;
+ //const backendURL = process.env.REACT_APP_BASE_URL;
+ const backendURL = "https://sevaapp.onrender.com/" ;
 
 export const getAllCampaignsUrl = () => {
   return backendURL + "api/campaign/all";
